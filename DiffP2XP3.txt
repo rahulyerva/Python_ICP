@@ -1,0 +1,10 @@
+Differences between Python Version 2 and 3:
+
+1)	Division Operation : In python 2 x version after division operation the result is rounded off to the floor value whereas in python 3x the division operation maintains precision and provides the exact decimal value.
+
+2)	Xrange : Python 2x has xrange function which gives us iterator object as  result whereas in python 3x version there is no xrange function instead it has range function which returns numbers.
+
+3)	Print :  Python 2x has no parenthesis 
+
+4)	Error Handling : There is a small change in error handling in both versions. In python 
+3.x, ‘as’ keyword is required.
